@@ -1,0 +1,5 @@
+Milena, 8.67, APROVADO 
+Helena, 8.5, APROVADO 
+Ingrid, 8.5, APROVADO 
+Eduardo, 10.0, APROVADO 
+A maior MÉDIA foi do aluno(a):Eduardo, com 10.0 de média 

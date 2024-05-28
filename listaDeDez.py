@@ -1,0 +1,15 @@
+lista = [0,0,0,0,0,0,0,0,0,0]
+
+lista[0] = input('VALOR 1:')
+lista[1] = input('VALOR 2:')
+lista[2] = input('VALOR 3:')
+lista[3] = input('VALOR 4:')
+lista[4] = input('VALOR 5:')
+lista[5] = input('VALOR 6:')
+lista[6] = input('VALOR 7:')
+lista[7] = input('VALOR 8:')
+lista[8] = input('VALOR 9:')
+lista[9] = input('VALOR 10:')
+lista.sort()
+print(f'TAMANHO DA LISTA: ', len(lista))
+print(lista)

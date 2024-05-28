@@ -1,0 +1,4 @@
+Milena, 9.5, 8, 8.5
+Helena, 8.5, 8, 9
+Ingrid, 10, 8, 7.5
+Eduardo, 10, 10, 10
